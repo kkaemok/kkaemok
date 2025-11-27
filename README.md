@@ -1,7 +1,12 @@
 ## Hi there 👋
 마인크래프트 플러그인/스크립트 개발자 깨목 입니다
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-4DB8FF?style=for-the-badge&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-78BD43?style=for-the-badge&logo=gradle&logoColor=white)
+
+
+
 
 
 
