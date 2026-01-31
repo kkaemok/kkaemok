@@ -1,7 +1,7 @@
 ## 💫 About Me:
-마인크래프트 플러그인/스크립트 개발자 깨목 입니다
+마인크래프트 플러그인 • 스크립트 개발자 깨목 입니다
 
-A Minecraft plugin/skript developer
+A Minecraft Plugin • Skript Developer
 
 ---
 
@@ -14,10 +14,5 @@ A Minecraft plugin/skript developer
 
 ### 💬 Socials:
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t4hjQJT854)
-
----
-
-### 📊 GitHub Stats:
-![kkaemok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkaemok&show_icons=true&theme=dark)
 
 ---
