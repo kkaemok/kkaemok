@@ -18,6 +18,5 @@ A Minecraft plugin/skript developer
 
 ### 📊 GitHub Stats:
 ![kkaemok's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkaemok&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkaemok&layout=compact&theme=dark)
 
 ---
