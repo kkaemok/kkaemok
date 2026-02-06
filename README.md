@@ -5,7 +5,7 @@
 ## 💫 About Me
 **마인크래프트 플러그인 • 스크립트 개발자 깨목**입니다
 
-![black line](https://raw.githubusercontent.com/kyechan99/capsule-render/master/assets/line.png)
+————————————————————————————————————————————————
 
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,6 +18,6 @@
 ### 💬 Socials
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t4hjQJT854)
 
-![black line](https://raw.githubusercontent.com/kyechan99/capsule-render/master/assets/line.png)
+————————————————————————————————————————————————
 
 </div>
