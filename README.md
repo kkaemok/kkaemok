@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=9eb4c1&height=250&section=header&text=Hello!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20am%20Kkaemok,%20a%20Minecraft%20Developer&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9eb4c1&height=250&section=header&text=Hello!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20am%20kkaemok,%20a%20Minecraft%20 Plugin and Skript Developer&descAlignY=55&descAlign=50)
 
 ## 💫 About Me
 **마인크래프트 플러그인 • 스크립트 개발자 깨목**입니다
