@@ -14,8 +14,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kkaemok&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=kkaemok&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&disable_animations=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kkaemok&icon=5&color=0)](https://visitcount.itsvg.in)
-
